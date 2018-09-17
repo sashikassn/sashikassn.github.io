@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec18b1b2-5396-40ba-82d7-ec56fda57e71" name="Default" comment="" />
+    <list default="true" id="ec18b1b2-5396-40ba-82d7-ec56fda57e71" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +17,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2441">
-              <caret line="300" column="80" selection-start-line="300" selection-start-column="80" selection-end-line="300" selection-end-column="80" />
+            <state relative-caret-position="176">
+              <caret line="490" column="38" lean-forward="true" selection-start-line="490" selection-start-column="38" selection-end-line="490" selection-end-column="38" />
               <folding>
-                <marker date="1537199054191" expanded="true" signature="57928:58005" ph="..." />
+                <marker date="1537200114668" expanded="true" signature="59074:59151" ph="..." />
               </folding>
             </state>
           </provider>
@@ -80,6 +83,9 @@
       <find>sett</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -102,10 +108,11 @@
       <server host="localhost" id="797a15e2-14ac-45ee-868a-99dfd677793d" name="apache web server" />
     </servers>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="984" />
     <option name="height" value="727" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -263,12 +270,12 @@
       <workItem from="1537101861957" duration="3623000" />
       <workItem from="1537107984003" duration="4432000" />
       <workItem from="1537173671992" duration="3715000" />
-      <workItem from="1537192967432" duration="6012000" />
+      <workItem from="1537192967432" duration="6903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18739000" />
+    <option name="totallyTimeSpent" value="19630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="727" extended-state="6" />
@@ -284,7 +291,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" order="7" weight="0.096283786" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -316,7 +323,7 @@
         <state relative-caret-position="11025">
           <caret line="735" column="42" lean-forward="true" selection-start-line="735" selection-start-column="42" selection-end-line="735" selection-end-column="42" />
           <folding>
-            <marker date="1537199054191" expanded="true" signature="57928:58005" ph="..." />
+            <marker date="1537200114668" expanded="true" signature="59074:59151" ph="..." />
           </folding>
         </state>
       </provider>
@@ -389,10 +396,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2441">
-          <caret line="300" column="80" selection-start-line="300" selection-start-column="80" selection-end-line="300" selection-end-column="80" />
+        <state relative-caret-position="176">
+          <caret line="490" column="38" lean-forward="true" selection-start-line="490" selection-start-column="38" selection-end-line="490" selection-end-column="38" />
           <folding>
-            <marker date="1537199054191" expanded="true" signature="57928:58005" ph="..." />
+            <marker date="1537200114668" expanded="true" signature="59074:59151" ph="..." />
           </folding>
         </state>
       </provider>
