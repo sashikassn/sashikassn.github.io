@@ -16,13 +16,28 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="176" column="116" lean-forward="true" selection-start-line="176" selection-start-column="116" selection-end-line="176" selection-end-column="116" />
+            <state relative-caret-position="385">
+              <caret line="575" column="118" selection-start-line="575" selection-start-column="118" selection-end-line="575" selection-end-column="118" />
               <folding>
-                <marker date="1537255462202" expanded="true" signature="69187:69264" ph="..." />
+                <marker date="1537256622560" expanded="true" signature="69568:69645" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="glasses.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/glasses.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="linux (1).png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/works/linux (1).png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="glasses-w.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/glasses-w.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="php.png" pinned="false" current-in-tab="false">
@@ -235,12 +250,12 @@
       <workItem from="1537107984003" duration="4432000" />
       <workItem from="1537173671992" duration="3715000" />
       <workItem from="1537192967432" duration="6903000" />
-      <workItem from="1537252238984" duration="3574000" />
+      <workItem from="1537252238984" duration="4592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23204000" />
+    <option name="totallyTimeSpent" value="24222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="727" extended-state="6" />
@@ -288,7 +303,7 @@
         <state relative-caret-position="7350">
           <caret line="490" column="38" lean-forward="true" selection-start-line="490" selection-start-column="38" selection-end-line="490" selection-end-column="38" />
           <folding>
-            <marker date="1537255462202" expanded="true" signature="69187:69264" ph="..." />
+            <marker date="1537256622560" expanded="true" signature="69568:69645" ph="..." />
           </folding>
         </state>
       </provider>
@@ -333,7 +348,7 @@
         <state relative-caret-position="11025">
           <caret line="735" column="42" lean-forward="true" selection-start-line="735" selection-start-column="42" selection-end-line="735" selection-end-column="42" />
           <folding>
-            <marker date="1537255462202" expanded="true" signature="69187:69264" ph="..." />
+            <marker date="1537256622560" expanded="true" signature="69568:69645" ph="..." />
           </folding>
         </state>
       </provider>
@@ -413,12 +428,21 @@
     <entry file="file://$PROJECT_DIR$/images/works/php.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/glasses-w.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/glasses.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/linux (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="176" column="116" lean-forward="true" selection-start-line="176" selection-start-column="116" selection-end-line="176" selection-end-column="116" />
+        <state relative-caret-position="385">
+          <caret line="575" column="118" selection-start-line="575" selection-start-column="118" selection-end-line="575" selection-end-column="118" />
           <folding>
-            <marker date="1537255462202" expanded="true" signature="69187:69264" ph="..." />
+            <marker date="1537256622560" expanded="true" signature="69568:69645" ph="..." />
           </folding>
         </state>
       </provider>
