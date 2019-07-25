@@ -4,6 +4,7 @@
     <list default="true" id="ec18b1b2-5396-40ba-82d7-ec56fda57e71" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,28 +17,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="552" column="81" selection-start-line="552" selection-start-column="81" selection-end-line="552" selection-end-column="81" />
+            <state relative-caret-position="161">
+              <caret line="908" column="147" selection-start-line="908" selection-start-column="147" selection-end-line="908" selection-end-column="147" />
               <folding>
-                <marker date="1563868873857" expanded="true" signature="71584:71661" ph="..." />
+                <marker date="1564026157196" expanded="true" signature="71866:71943" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/works/html (1).png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/works/hibernate.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/works/angular.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -62,6 +57,16 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/works/Jaspersoft.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/works/javaee.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/works/kubernates.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -93,8 +98,8 @@
       <list>
         <option value="$PROJECT_DIR$/portfolio-detail/work-01.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/js/Demo.js" />
+        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -104,7 +109,7 @@
       <server host="localhost" id="797a15e2-14ac-45ee-868a-99dfd677793d" name="apache web server" />
     </servers>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1356" />
     <option name="height" value="727" />
   </component>
@@ -132,47 +137,12 @@
               <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="works" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="load-more" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="load-more" type="462c0819:PsiDirectoryNode" />
-              <item name="blog-posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio-detail" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio-detail" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personalWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personalWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio-detail" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio-content" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -183,7 +153,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563869094223" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564026383596" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Final Project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -272,18 +242,19 @@
       <workItem from="1560494832586" duration="42000" />
       <workItem from="1560515200238" duration="3547000" />
       <workItem from="1560595276465" duration="154000" />
-      <workItem from="1563867206649" duration="1553000" />
+      <workItem from="1563867206649" duration="1728000" />
+      <workItem from="1564024056375" duration="2094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41183000" />
+    <option name="totallyTimeSpent" value="43452000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1323752" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13161875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,13 +301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="11" column="703" selection-start-line="11" selection-start-column="695" selection-end-line="11" selection-end-column="703" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -423,18 +387,31 @@
     <entry file="file://$PROJECT_DIR$/images/works/images.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/java .png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/works/Jaspersoft.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/java .png">
+    <entry file="file://$PROJECT_DIR$/images/works/javaee.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/kubernates.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="552" column="81" selection-start-line="552" selection-start-column="81" selection-end-line="552" selection-end-column="81" />
+        <state relative-caret-position="161">
+          <caret line="908" column="147" selection-start-line="908" selection-start-column="147" selection-end-line="908" selection-end-column="147" />
           <folding>
-            <marker date="1563868873857" expanded="true" signature="71584:71661" ph="..." />
+            <marker date="1564026157196" expanded="true" signature="71866:71943" ph="..." />
           </folding>
         </state>
       </provider>
