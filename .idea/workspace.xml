@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ec18b1b2-5396-40ba-82d7-ec56fda57e71" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/JavaFX_Logo.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,37 +17,37 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="540" column="90" lean-forward="true" selection-start-line="540" selection-start-column="90" selection-end-line="540" selection-end-column="90" />
+            <state relative-caret-position="-535">
+              <caret line="512" column="81" selection-start-line="512" selection-start-column="81" selection-end-line="512" selection-end-column="81" />
               <folding>
-                <marker date="1565311296034" expanded="true" signature="71987:72064" ph="..." />
+                <marker date="1566095114072" expanded="true" signature="71980:72057" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/works/c.png">
+        <entry file="file://$PROJECT_DIR$/images/works/mysql.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/works/docker-cloud-servers.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/works/js.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/works/jquery (1).png">
+        <entry file="file://$PROJECT_DIR$/images/works/mssql.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/works/apple-ios-logo-png-apple-ios-image-4085-256.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/works/bootstrap-stack.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/works/docker.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -162,7 +163,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565311387994" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566095189365" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Final Project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -257,18 +258,20 @@
       <workItem from="1564211841673" duration="2133000" />
       <workItem from="1564227750854" duration="39000" />
       <workItem from="1564718223839" duration="1152000" />
-      <workItem from="1565310386711" duration="905000" />
+      <workItem from="1565310386711" duration="1487000" />
+      <workItem from="1565610732315" duration="890000" />
+      <workItem from="1566093895184" duration="1290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49059000" />
+    <option name="totallyTimeSpent" value="51821000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13993949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14447807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -304,15 +307,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/works/springboot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/hibernate.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/docker.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/works/kubernates.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -388,9 +382,6 @@
     <entry file="file://$PROJECT_DIR$/images/works/angular.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/bootstrap-stack.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/works/git.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -421,9 +412,6 @@
     <entry file="file://$PROJECT_DIR$/images/works/maven (2).png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/mssql.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/client-04.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -449,6 +437,18 @@
     <entry file="file://$PROJECT_DIR$/css/reset.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/c.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/docker-cloud-servers.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/js.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/jquery (1).png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/owl.theme.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -468,24 +468,27 @@
     <entry file="file://$PROJECT_DIR$/images/works/apple-ios-logo-png-apple-ios-image-4085-256.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/c.png">
+    <entry file="file://$PROJECT_DIR$/images/works/bootstrap-stack.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/docker-cloud-servers.png">
+    <entry file="file://$PROJECT_DIR$/images/works/docker.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/js.png">
+    <entry file="file://$PROJECT_DIR$/images/works/javafx_logo.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/works/jquery (1).png">
+    <entry file="file://$PROJECT_DIR$/images/works/mssql.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/works/mysql.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="540" column="90" lean-forward="true" selection-start-line="540" selection-start-column="90" selection-end-line="540" selection-end-column="90" />
+        <state relative-caret-position="-535">
+          <caret line="512" column="81" selection-start-line="512" selection-start-column="81" selection-end-line="512" selection-end-column="81" />
           <folding>
-            <marker date="1565311296034" expanded="true" signature="71987:72064" ph="..." />
+            <marker date="1566095114072" expanded="true" signature="71980:72057" ph="..." />
           </folding>
         </state>
       </provider>
